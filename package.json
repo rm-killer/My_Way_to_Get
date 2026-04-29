@@ -1,7 +1,7 @@
 {
-  "name": "My Beloved toghrol",
+  "name": "netlify-xhttp-relay",
   "version": "1.0.0",
-  "description": "Dont ask",
+  "description": "Netlify Edge Function HTTP relay for your own upstream service",
   "private": true,
   "license": "MIT",
   "scripts": {
